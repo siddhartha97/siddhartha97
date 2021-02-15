@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello, I'm Sid, a final year grad student passionate about Distributed Systems and Cloud Infrastructure. I've worked on Go, C++ and Python pretty extensively!
+Hello, I'm Sid, a final year grad student passionate about Distributed Systems and Cloud Infrastructure. I've worked on Go, C++ and Python!
 <!--
 **siddhartha97/siddhartha97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
