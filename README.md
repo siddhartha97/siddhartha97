@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Thanks for stopping by! I'm Sid, passionate about Distributed Systems and Cloud Infrastructure. I've worked on Go, C++ and Python!
+Thanks for stopping by! I'm Sid, passionate about large scale distributed systems and cloud infrastructure. 
 <!--
 **siddhartha97/siddhartha97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
